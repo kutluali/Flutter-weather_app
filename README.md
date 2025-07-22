@@ -1,6 +1,8 @@
 # weather_app
 
-A new Flutter project.
+Flutter ile Figma üzerinden tasarladığım ilk görsel tasarımım.Alttaki Figma görselinin linki bulunmaktadır.
+
+https://www.figma.com/design/QBX3b5AZmG8QbL70Ll3gAu/Weather-%7C-App--Community-?node-id=401-7&t=UfXEhfwFWED2F7sl-0
 
 ## Getting Started
 
